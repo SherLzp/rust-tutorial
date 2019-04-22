@@ -1,4 +1,5 @@
-mod algorithms;
+//mod algorithms;
+mod commandLine;
 
 fn main() {
 //    algorithms::genRandomNum();
@@ -9,6 +10,8 @@ fn main() {
 //    algorithms::genRandomPwd();
 //    algorithms::sortIntVec();
 //    algorithms::sortFloatVec();
-    algorithms::sortStructVec();
+//    algorithms::sortStructVec();
+//    commandLine::parseCLArgs();
+    commandLine::printCustomText();
 }
 
