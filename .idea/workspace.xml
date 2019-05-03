@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d01c2c8c-3bdd-4825-b310-c3359f7f518a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust_cookbook/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust_cookbook/src/algorithms.rs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust_cookbook/src/commandLine.rs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust_cookbook/src/compression.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust_programming/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust_programming/concurrency/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust_programming/hello_web/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust_programming/hello_web/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust_programming/hello_web/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust_programming/minigrep/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust_programming/my_blog/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust_programming/my_lib/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rust_cookbook/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/rust_cookbook/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +29,7 @@
         <counts>
           <entry key="gitignore" value="4" />
           <entry key="html" value="2" />
+          <entry key="md" value="1" />
           <entry key="rs" value="36" />
           <entry key="toml" value="8" />
           <entry key="txt" value="1" />
@@ -46,7 +38,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="PLAIN_TEXT" value="6" />
           <entry key="Rust" value="36" />
           <entry key="TOML" value="8" />
         </counts>
@@ -55,6 +47,7 @@
         <counts>
           <entry key="gitignore" value="4" />
           <entry key="html" value="1" />
+          <entry key="md" value="21" />
           <entry key="rs" value="9845" />
           <entry key="toml" value="23" />
         </counts>
@@ -62,7 +55,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="25" />
           <entry key="Rust" value="9845" />
           <entry key="TOML" value="23" />
         </counts>
@@ -93,11 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rust_programming/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -149,6 +151,7 @@
         <option value="$PROJECT_DIR$/rust_programming/hello_web/src/404.html" />
         <option value="$PROJECT_DIR$/rust_programming/hello_web/src/lib.rs" />
         <option value="$PROJECT_DIR$/rust_programming/hello_web/src/main.rs" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -331,7 +334,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -344,7 +347,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49798927" visible="true" weight="0.36685553" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49798927" visible="true" weight="0.3711048" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50268096" side_tool="true" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -653,6 +656,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
