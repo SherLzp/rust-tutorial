@@ -1,6 +1,7 @@
 //mod algorithms;
 mod commandLine;
 
+use std::string::String;
 fn main() {
 //    algorithms::genRandomNum();
 //    algorithms::genRangeRandomNum();
@@ -12,6 +13,8 @@ fn main() {
 //    algorithms::sortFloatVec();
 //    algorithms::sortStructVec();
 //    commandLine::parseCLArgs();
-    commandLine::printCustomText();
+//    commandLine::printCustomText();
+
+    println!("{:?}","sher.network".as_bytes())
 }
 

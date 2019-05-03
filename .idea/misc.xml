@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/guess_number/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/variables/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/ownership/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/slices/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/rectangles/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/enums/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/my_lib/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/common_collections/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/err_handling/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/generic_types/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/lifetime/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/minigrep/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/concurrency/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/my_blog/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/hello_macro/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/hello_macro_derive/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/pancakes/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/rust_programming/hello_web/Cargo.toml" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+</project>
